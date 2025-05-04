@@ -1,1 +1,2 @@
-"Este es un fichero de prueba para la actividad 2" 
+"Este es un fichero de prueba para la actividad 2"
+"Esto es un cambio introducido en la rama realeses/v1.0"
